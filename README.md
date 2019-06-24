@@ -1,3 +1,3 @@
 # TOPSIS
 
-This is a python-based TOPSIS code for multiple criteria analysis.
+This is a python-based TOPSIS project for multiple criteria analysis.
